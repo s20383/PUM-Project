@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Testowy</folder>
+	<filename>zdjecie-przedstawia-autobus-linii-nr-194-2.jpg</filename>
+	<path>D:\PUM\Projekt-PUM\Testowy\zdjecie-przedstawia-autobus-linii-nr-194-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2151</width>
+		<height>1858</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1042</xmin>
+			<ymin>1495</ymin>
+			<xmax>1350</xmax>
+			<ymax>1555</ymax>
+		</bndbox>
+	</object>
+</annotation>

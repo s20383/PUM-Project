@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Testowy</folder>
+	<filename>renault-megane-grand-tour-dci-rawicz-sprzedam-554142636.jpg</filename>
+	<path>D:\PUM\Projekt-PUM\Testowy\renault-megane-grand-tour-dci-rawicz-sprzedam-554142636.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>491</ymin>
+			<xmax>265</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>

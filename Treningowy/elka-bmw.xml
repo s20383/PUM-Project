@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Treningowy</folder>
+	<filename>elka-bmw.jpg</filename>
+	<path>D:\PUM\Projekt-PUM\Treningowy\elka-bmw.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1960</width>
+		<height>1470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1466</xmin>
+			<ymin>977</ymin>
+			<xmax>1709</xmax>
+			<ymax>1150</ymax>
+		</bndbox>
+	</object>
+</annotation>

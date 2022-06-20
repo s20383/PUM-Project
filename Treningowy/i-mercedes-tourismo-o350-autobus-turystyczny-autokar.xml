@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Treningowy</folder>
+	<filename>i-mercedes-tourismo-o350-autobus-turystyczny-autokar.webp</filename>
+	<path>D:\PUM\Projekt-PUM\Treningowy\i-mercedes-tourismo-o350-autobus-turystyczny-autokar.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1991</xmin>
+			<ymin>1257</ymin>
+			<xmax>2098</xmax>
+			<ymax>1303</ymax>
+		</bndbox>
+	</object>
+</annotation>

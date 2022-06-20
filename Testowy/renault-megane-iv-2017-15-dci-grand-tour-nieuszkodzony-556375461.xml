@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Testowy</folder>
+	<filename>renault-megane-iv-2017-15-dci-grand-tour-nieuszkodzony-556375461.jpg</filename>
+	<path>D:\PUM\Projekt-PUM\Testowy\renault-megane-iv-2017-15-dci-grand-tour-nieuszkodzony-556375461.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>835</xmin>
+			<ymin>454</ymin>
+			<xmax>914</xmax>
+			<ymax>546</ymax>
+		</bndbox>
+	</object>
+</annotation>

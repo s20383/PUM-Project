@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Testowy</folder>
+	<filename>hilux_top_gear_1.jpg</filename>
+	<path>D:\PUM\Projekt-PUM\Testowy\hilux_top_gear_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1957</width>
+		<height>1102</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>872</xmin>
+			<ymin>749</ymin>
+			<xmax>1140</xmax>
+			<ymax>862</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Treningowy</folder>
+	<filename>zolte-tablice-rejestracyjne-1384.jpg</filename>
+	<path>D:\PUM\Projekt-PUM\Treningowy\zolte-tablice-rejestracyjne-1384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>918</width>
+		<height>492</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>296</ymin>
+			<xmax>382</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

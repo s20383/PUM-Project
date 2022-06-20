@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Testowy</folder>
+	<filename>shutterstock_2056959638.jpg</filename>
+	<path>D:\PUM\Projekt-PUM\Testowy\shutterstock_2056959638.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>1432</ymin>
+			<xmax>638</xmax>
+			<ymax>1480</ymax>
+		</bndbox>
+	</object>
+</annotation>

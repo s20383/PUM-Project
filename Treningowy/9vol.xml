@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Treningowy</folder>
+	<filename>9vol.jpg</filename>
+	<path>D:\PUM\Projekt-PUM\Treningowy\9vol.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>421</ymin>
+			<xmax>638</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

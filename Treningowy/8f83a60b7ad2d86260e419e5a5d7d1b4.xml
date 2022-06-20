@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Treningowy</folder>
+	<filename>8f83a60b7ad2d86260e419e5a5d7d1b4.jpg</filename>
+	<path>D:\PUM\Projekt-PUM\Treningowy\8f83a60b7ad2d86260e419e5a5d7d1b4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>261</ymin>
+			<xmax>416</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

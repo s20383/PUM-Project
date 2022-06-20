@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Treningowy</folder>
+	<filename>Top-10-najszybszych-aut-na-torze-Top-Gear_article.jpg</filename>
+	<path>D:\PUM\Projekt-PUM\Treningowy\Top-10-najszybszych-aut-na-torze-Top-Gear_article.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1240</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>817</xmin>
+			<ymin>388</ymin>
+			<xmax>930</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

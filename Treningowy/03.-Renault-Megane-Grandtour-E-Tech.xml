@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Treningowy</folder>
+	<filename>03.-Renault-Megane-Grandtour-E-Tech.jpg</filename>
+	<path>D:\PUM\Projekt-PUM\Treningowy\03.-Renault-Megane-Grandtour-E-Tech.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>875</xmin>
+			<ymin>565</ymin>
+			<xmax>1068</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>

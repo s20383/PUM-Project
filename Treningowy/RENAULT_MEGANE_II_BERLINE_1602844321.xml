@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Treningowy</folder>
+	<filename>RENAULT_MEGANE_II_BERLINE_1602844321.jpeg</filename>
+	<path>D:\PUM\Projekt-PUM\Treningowy\RENAULT_MEGANE_II_BERLINE_1602844321.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>253</ymin>
+			<xmax>516</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

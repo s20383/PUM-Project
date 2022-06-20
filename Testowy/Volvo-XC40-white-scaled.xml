@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Testowy</folder>
+	<filename>Volvo-XC40-white-scaled.jpg</filename>
+	<path>D:\PUM\Projekt-PUM\Testowy\Volvo-XC40-white-scaled.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>600</xmin>
+			<ymin>764</ymin>
+			<xmax>910</xmax>
+			<ymax>847</ymax>
+		</bndbox>
+	</object>
+</annotation>

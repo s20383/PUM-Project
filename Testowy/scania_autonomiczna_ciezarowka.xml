@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Testowy</folder>
+	<filename>scania_autonomiczna_ciezarowka.jpg</filename>
+	<path>D:\PUM\Projekt-PUM\Testowy\scania_autonomiczna_ciezarowka.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tablica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>388</ymin>
+			<xmax>208</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>
