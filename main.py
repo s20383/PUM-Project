@@ -31,10 +31,10 @@ def train_model(train_folder, test_folder, custom_transforms):
     return loader, model, losses
 
 
-def show_labeled_image(path, model):
+def show_image(path, model):
     image = utils.read_image(path)
     labels, boxes, scores = model.predict(image)
-    thresh = 0.5
+    thresh = 0.9
     filtered_indices = np.where(scores > thresh)
     filtered_scores = scores[filtered_indices]
     filtered_boxes = boxes[filtered_indices]
@@ -50,9 +50,9 @@ def main():
     joblib.dump(model, 'model.sav')
     plt.plot(losses)
     plt.show()
-    show_labeled_image('renault-clio-iv-grandtour.jpg', model)
-    show_labeled_image('Renault-Megane-Grandtour-11-scaled.jpg', model)
-    show_labeled_image(
+    show_image('renault-clio-iv-grandtour.jpg', model)
+    show_image('Renault-Megane-Grandtour-11-scaled.jpg', model)
+    show_image(
         'renault-megane-iv-2017-15-dci-grand-tour-nieuszkodzony-wielkopolskie-556375465.jpg', model)
 
 
